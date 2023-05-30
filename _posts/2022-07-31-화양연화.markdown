@@ -1,29 +1,214 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-05-30 14:49:51 +0900
+title:  화양연화
+date:   2022-07-31 00:00:00 +0900
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+왕가위 감독은
 
-`YEAR-MONTH-DAY-title.MARKUP`
+상상하고 싶은
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+연애나 사랑을 주제로 한
 
-Jekyll also offers powerful support for code snippets:
+현실에 있을 수 있지만
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+범죄나 도덕적으로 그르거나
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+실행하기 힘든 일화들을
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+머릿속에서 시뮬레이션을 돌리는걸 좋아하는
+
+좋은 의미로의 변태?!인거 같다.
+
+그래서 영화가 엄청 몰입할 수 있거나
+
+엄청 흥미진진한 것이 아니지만
+
+이 사람이 어떤 독특한 상황을 설정하여
+
+어떤 독특한 미장센 및 감성으로
+
+영화를 만들었을까
+
+궁금해서 보게되는 종류의 영화인것 같다.
+
+
+
+불륜이 소재인 *[헤어질 결심]* 과 비교해서
+
+어떤 종류의 영화인지 알아보자면,
+
+*[헤어질 결심]* 은
+
+사건을 중심으로 이야기가 전개되고
+
+현실감이 느껴지고 카오스적인, 질척이는 느낌의
+
+잘 짜여진 불륜 드라마라면
+
+*[화양연화]* 는
+
+그냥 일상생활 속의 단편적인 일화들을 띄엄띄엄 보여주고
+
+일상생활에서 느껴지는 낭만적이고 몽환적인 느낌의
+
+두서없는 로맨틱한 기억속의 편린처럼 느껴진다.
+
+그래서 나한테는 상당히 서로 다른 느낌의 영화처럼 느껴진다.
+
+내 생각에
+
+왕가위 감독의 많은 영화가
+
+관객들이 영화를 볼때
+
+답답함을 느끼도록 하는 것 같은데
+
+*[화양연화]* 도 마찬가지로
+
+영화 대부분, 인물들의 측면만 잡는다.
+
+그것도 거의 주인공 남녀 둘만.
+
+그리고 어중간한 미디엄 샷으로,
+
+왼쪽이나 오른쪽 공간을
+
+항상 기둥이나 벽, 물체들이 차지한 채로.
+
+그래서 가끔씩 측면이 아니라
+
+정면 샷이 나오는 경우엔
+
+주인공의 표정을 면밀히 관찰할 수 있다.
+
+그리고 둘 말고
+
+카메라에 제대로 잡히는 인물은
+
+남자의 대머리 친구 뿐이다.
+
+그래서 이 영화를 보고 나면
+
+다른 영화보다 유독
+
+둘 만의 교감이 기억에 남고
+
+그들만의 이야기라고 여기게 된다.
+
+그들의 이야기가 어떤 이야기인지,
+
+그것은 영화 중간중간에 나오는
+
+*느리고 매혹적인 음악* 과
+
+그에 어울리는 *옥색 미장센 ,*
+
+그 둘과 잘 어우러져 설명 되는 것 같다.
+
+특히 느리고 매혹적인 음악은
+
+항상 화려한 치파오를 입고 등장하는,
+
+윤기나는 정리된 머리와 까리한 정장을 차려입은,
+
+여자와 남자의 매혹적이고
+
+둘 사이에서 느껴지는
+
+*낭만적 기류* 를 표현한다.
+
+영화 내내 감정을 절제하는 듯한 두 남녀,
+
+관객을 답답하게 만드는 좁은 카메라
+
+매혹적이지만 느린 음악과 영화의 분위기.
+
+이런 것들이 딱 한 번 지켜지지 않은 때가
+
+그들이 서로의 배우자가
+
+자신의 배우자의 불륜 상대라는 걸
+
+서로 확인한 때이다.
+
+테이블에서 마주보고
+
+가방과 넥타이에 대해 이야기한다.
+
+그리고 불륜 사실과 상대방을 확인하면서
+
+카메라는 빠른 패닝으로
+
+여자의 질문에 답하는 남자를 잡고
+
+검은색 빈 공간에서 남자로
+
+왼쪽으로 빠른 평행 이동을 한다.
+
+그들은 불륜의 피해자로서
+
+동병상련의 감정으로
+
+둘의 관계가 시작되었는지
+
+아니면 다른 감정도 있었는지
+
+모르겠지만,
+
+카메라에 잡히는 시계가
+
+하루 24 시간 중에
+
+여러 시간대를 보여주면서
+
+그들이 그렇게 다양한
+
+시간대에 함께 했다는 걸 알려준다.
+
+그리고 그들은
+
+흘러가는 시간 속에서
+
+감정을 교류한다.
+
+인상 깊었던 말을 들었다.
+
+***‘동질감 속에 있는 이질감에 우리는 매력을 느낀다.’***
+
+그들이 감정을 교류하지만
+
+동시에 감정을 절제하는 것이
+
+불륜을 하는 그들의 배우자와는 다른
+
+그들의 이질감을 지키기 위한 것인지,
+
+아니면 그냥 어떤 일이 벌어질지 모르는
+
+막연한 두려움에 대한
+
+자기 방어의 결과인지는 모르겠지만,
+
+영화를 보고나면
+
+감정을 교류하고
+
+감정을 절제하는
+
+그런 것들이,
+
+마냥 흘러가는 시간 속에서
+
+어떻게 피어오르고
+
+어떻게 전달되는지
+
+어떻게 그런 순간들이
+
+그들의 인생에서
+
+*화양연화* 인지
+
+기억 속에 깊이 남는 것 같다.
