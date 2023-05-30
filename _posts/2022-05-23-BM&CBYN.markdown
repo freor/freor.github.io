@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Brokeback Mountain and Call Me by Your Name
+title:  Brokeback Mountain & Call Me by Your Name
 date:   2022-05-23 00:00:00 +0900
 categories: jekyll update
 ---
