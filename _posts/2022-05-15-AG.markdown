@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Andreas Gursky
-date:   2022-05-15 00:00:00 +0900
+date:   2022-05-15 01:00:00 +0900
 categories: jekyll update
 ---
 
