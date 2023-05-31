@@ -312,9 +312,6 @@ categories: jekyll update
 
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
-
----
-
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 
