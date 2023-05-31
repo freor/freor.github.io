@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-***파스텔 칼럼과 피사체 텔링***
+***파스텔 칼럼과 비-피사체***
 
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
@@ -88,10 +88,6 @@ categories: jekyll update
 
 얼핏보면 의미가 없지만 없으면 뭔가 허전한 것들로 이루어져있다.
 
-어찌보면 영화에서도 스토리 ‘텔링'이 중요하듯이
-
-사진내에서도 피사체 ‘텔링' 이 중요하다고 볼 수도 있다.
-
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 
@@ -105,6 +101,6 @@ categories: jekyll update
 
 웨스 앤더슨의 색감들이나
 
-사울 레이터의 비-피사체들의 피사체 ‘텔링' 도
+사울 레이터의 비-피사체들도
 
 그들만의 직관적인 특색이 있다고 생각한다.
